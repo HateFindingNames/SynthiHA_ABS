@@ -1,0 +1,2062 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="chemical.svg"
+   id="svg3850"
+   version="1.1"
+   overflow="hidden"
+   height="1688.1816"
+   width="2960.3484">
+  <metadata
+     id="metadata3854">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg3850"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="957.92376"
+     inkscape:cx="1584.1322"
+     inkscape:zoom="0.4146217"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview3852"
+     inkscape:window-height="1361"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs3494">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect3171"
+         height="1980"
+         width="3143"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         id="rect3174"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         id="rect3177"
+         height="583"
+         width="583"
+         y="1326"
+         x="452" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,604.5,1326.5)"
+       id="fill3"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       r="924364"
+       cy="725978"
+       cx="572192">
+      <stop
+         id="stop3180"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3182"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3184"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip4">
+      <rect
+         id="rect3187"
+         height="583"
+         width="583"
+         y="1326"
+         x="452" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <rect
+         id="rect3190"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <rect
+         id="rect3193"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <rect
+         id="rect3196"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <rect
+         id="rect3199"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <rect
+         id="rect3202"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip10">
+      <rect
+         id="rect3205"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip11">
+      <rect
+         id="rect3208"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <rect
+         id="rect3211"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <rect
+         id="rect3214"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <rect
+         id="rect3217"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <rect
+         id="rect3220"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <rect
+         id="rect3223"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <rect
+         id="rect3226"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip18">
+      <rect
+         id="rect3229"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip19">
+      <rect
+         id="rect3232"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip20">
+      <rect
+         id="rect3235"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,1506.5,1566.5)"
+       id="fill21"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       fy="31865.5"
+       fx="30480"
+       r="44095.801"
+       cy="31865.5"
+       cx="30480">
+      <stop
+         id="stop3238"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3240"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3242"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip22">
+      <rect
+         id="rect3245"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip23">
+      <rect
+         id="rect3248"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip24">
+      <rect
+         id="rect3251"
+         height="990"
+         width="1650"
+         y="1056"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip25">
+      <rect
+         id="rect3254"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip26">
+      <rect
+         id="rect3257"
+         height="583"
+         width="583"
+         y="1326"
+         x="1945" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,2097.5,1326.5)"
+       id="fill27"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       r="924364"
+       cy="725978"
+       cx="572192">
+      <stop
+         id="stop3260"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3262"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3264"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip28">
+      <rect
+         id="rect3267"
+         height="583"
+         width="583"
+         y="1326"
+         x="1945" />
+    </clipPath>
+    <clipPath
+       id="clip29">
+      <rect
+         id="rect3270"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip30">
+      <rect
+         id="rect3273"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip31">
+      <rect
+         id="rect3276"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip32">
+      <rect
+         id="rect3279"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip33">
+      <rect
+         id="rect3282"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip34">
+      <rect
+         id="rect3285"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip35">
+      <rect
+         id="rect3288"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip36">
+      <rect
+         id="rect3291"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip37">
+      <rect
+         id="rect3294"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip38">
+      <rect
+         id="rect3297"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip39">
+      <rect
+         id="rect3300"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip40">
+      <rect
+         id="rect3303"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip41">
+      <rect
+         id="rect3306"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip42">
+      <rect
+         id="rect3309"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip43">
+      <rect
+         id="rect3312"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip44">
+      <rect
+         id="rect3315"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,2999.5,1566.5)"
+       id="fill45"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       fy="31865.5"
+       fx="30480"
+       r="44095.801"
+       cy="31865.5"
+       cx="30480">
+      <stop
+         id="stop3318"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3320"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3322"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip46">
+      <rect
+         id="rect3325"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip47">
+      <rect
+         id="rect3328"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip48">
+      <rect
+         id="rect3331"
+         height="990"
+         width="1650"
+         y="1056"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip49">
+      <rect
+         id="rect3334"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip50">
+      <rect
+         id="rect3337"
+         height="583"
+         width="582"
+         y="2316"
+         x="452" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,603.5,2316.5)"
+       id="fill51"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       r="924364"
+       cy="725978"
+       cx="572192">
+      <stop
+         id="stop3340"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3342"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3344"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip52">
+      <rect
+         id="rect3347"
+         height="583"
+         width="582"
+         y="2316"
+         x="452" />
+    </clipPath>
+    <clipPath
+       id="clip53">
+      <rect
+         id="rect3350"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip54">
+      <rect
+         id="rect3353"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip55">
+      <rect
+         id="rect3356"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip56">
+      <rect
+         id="rect3359"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip57">
+      <rect
+         id="rect3362"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip58">
+      <rect
+         id="rect3365"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip59">
+      <rect
+         id="rect3368"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip60">
+      <rect
+         id="rect3371"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip61">
+      <rect
+         id="rect3374"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip62">
+      <rect
+         id="rect3377"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip63">
+      <rect
+         id="rect3380"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip64">
+      <rect
+         id="rect3383"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip65">
+      <rect
+         id="rect3386"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip66">
+      <rect
+         id="rect3389"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip67">
+      <rect
+         id="rect3392"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip68">
+      <rect
+         id="rect3395"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,1504.5,2556.5)"
+       id="fill69"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       fy="31865.5"
+       fx="31865.5"
+       r="45064.602"
+       cy="31865.5"
+       cx="31865.5">
+      <stop
+         id="stop3398"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3400"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3402"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip70">
+      <rect
+         id="rect3405"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip71">
+      <rect
+         id="rect3408"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip72">
+      <rect
+         id="rect3411"
+         height="990"
+         width="1650"
+         y="2046"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip73">
+      <rect
+         id="rect3414"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip74">
+      <rect
+         id="rect3417"
+         height="583"
+         width="583"
+         y="2316"
+         x="1943" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,2095.5,2316.5)"
+       id="fill75"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       r="924364"
+       cy="725978"
+       cx="572192">
+      <stop
+         id="stop3420"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3422"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3424"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip76">
+      <rect
+         id="rect3427"
+         height="583"
+         width="583"
+         y="2316"
+         x="1943" />
+    </clipPath>
+    <clipPath
+       id="clip77">
+      <rect
+         id="rect3430"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip78">
+      <rect
+         id="rect3433"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip79">
+      <rect
+         id="rect3436"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip80">
+      <rect
+         id="rect3439"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip81">
+      <rect
+         id="rect3442"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip82">
+      <rect
+         id="rect3445"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip83">
+      <rect
+         id="rect3448"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip84">
+      <rect
+         id="rect3451"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip85">
+      <rect
+         id="rect3454"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip86">
+      <rect
+         id="rect3457"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip87">
+      <rect
+         id="rect3460"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip88">
+      <rect
+         id="rect3463"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip89">
+      <rect
+         id="rect3466"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip90">
+      <rect
+         id="rect3469"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip91">
+      <rect
+         id="rect3472"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip92">
+      <rect
+         id="rect3475"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <radialGradient
+       gradientTransform="matrix(3.60892e-4,0,0,3.60892e-4,2995.5,2556.5)"
+       id="fill93"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       fy="31865.5"
+       fx="30480"
+       r="44095.801"
+       cy="31865.5"
+       cx="30480">
+      <stop
+         id="stop3478"
+         stop-opacity="0"
+         stop-color="#F6F8FC"
+         offset="0" />
+      <stop
+         id="stop3480"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="0.69" />
+      <stop
+         id="stop3482"
+         stop-opacity="0.360784"
+         stop-color="#4472C4"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       id="clip94">
+      <rect
+         id="rect3485"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip95">
+      <rect
+         id="rect3488"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+    <clipPath
+       id="clip96">
+      <rect
+         id="rect3491"
+         height="990"
+         width="1650"
+         y="2046"
+         x="1493" />
+    </clipPath>
+  </defs>
+  <g
+     id="g3848"
+     transform="translate(-134.63356,-1173.1987)"
+     clip-path="url(#clip0)">
+    <g
+       id="g3498"
+       clip-path="url(#clip1)">
+      <path
+         id="path3496"
+         fill="none"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="3.4375"
+         stroke="#d9d9d9"
+         d="m 742.525,1558.55 55.001,40 m 0,0 -21,65 m 0,0 h -68.003 m 0,0 -21,-65 m 0,0 55.002,-40 m 0,-58 110.003,80 m 0,0 -42.001,130.01 m 0,0 H 674.522 m 0,0 -42.001,-130.01 m 0,0 110.004,-80 m 0,-58 165.005,120 m 0,0 -63.002,194.01 m 0,0 H 640.521 m 0,0 -63.002,-194.01 m 0,0 165.006,-120 m 0,-58 220.007,160 m 0,0 -84.003,259.01 m 0,0 H 606.52 m 0,0 -85.003,-259.01 m 0,0 221.008,-160 m 0,-58.05 274.975,200.05 m 0,0 -104.97,323.95 m 0,0 H 572.519 m 0,0 L 466.5,1526.55 m 0,0 276.025,-200.05" />
+    </g>
+    <g
+       id="g3502"
+       clip-path="url(#clip2)">
+      <path
+         style="fill:url(#fill3)"
+         id="path3500"
+         fill="url(#fill3)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         d="M 742.525,1326.5 1017.5,1526.55 912.53,1850.5 657.522,1733.56 604.5,1571.55 Z" />
+    </g>
+    <g
+       id="g3506"
+       clip-path="url(#clip4)">
+      <path
+         id="path3504"
+         fill-opacity="0.101961"
+         fill="#ed7d31"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="18.3333"
+         stroke="#ed7d31"
+         d="m 742.024,1472 275.976,55.05 -275.976,89 L 657.022,1733 605,1572.05 Z" />
+    </g>
+    <g
+       id="g3510"
+       clip-path="url(#clip5)">
+      <text
+         id="text3508"
+         transform="translate(648.32,1630)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,0</text>
+    </g>
+    <g
+       id="g3514"
+       clip-path="url(#clip6)">
+      <text
+         id="text3512"
+         transform="translate(648.32,1572)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,2</text>
+    </g>
+    <g
+       id="g3518"
+       clip-path="url(#clip7)">
+      <text
+         id="text3516"
+         transform="translate(648.32,1514)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,4</text>
+    </g>
+    <g
+       id="g3522"
+       clip-path="url(#clip8)">
+      <text
+         id="text3520"
+         transform="translate(648.32,1457)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,6</text>
+    </g>
+    <g
+       id="g3526"
+       clip-path="url(#clip9)">
+      <text
+         id="text3524"
+         transform="translate(648.32,1399)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,8</text>
+    </g>
+    <g
+       id="g3530"
+       clip-path="url(#clip10)">
+      <text
+         id="text3528"
+         transform="translate(648.32,1341)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">1,0</text>
+    </g>
+    <g
+       id="g3534"
+       clip-path="url(#clip11)">
+      <text
+         id="text3532"
+         transform="translate(634.306,1249)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Mineralische</text>
+    </g>
+    <g
+       id="g3538"
+       clip-path="url(#clip12)">
+      <text
+         id="text3536"
+         transform="translate(625.804,1299)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Schmierstoffe</text>
+    </g>
+    <g
+       id="g3542"
+       clip-path="url(#clip13)">
+      <text
+         id="text3540"
+         transform="translate(1145.43,1510)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aliph.</text>
+    </g>
+    <g
+       id="g3546"
+       clip-path="url(#clip14)">
+      <text
+         id="text3544"
+         transform="translate(1028.53,1560)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Kohlenwasserstoffe</text>
+    </g>
+    <g
+       id="g3550"
+       clip-path="url(#clip15)">
+      <text
+         id="text3548"
+         transform="translate(919.165,1871)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aceton</text>
+    </g>
+    <g
+       id="g3554"
+       clip-path="url(#clip16)">
+      <text
+         id="text3552"
+         transform="translate(417.991,1871)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Alkohole</text>
+    </g>
+    <g
+       id="g3558"
+       clip-path="url(#clip17)">
+      <text
+         id="text3556"
+         transform="translate(158.567,1510)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">UV- / Witterungs-</text>
+    </g>
+    <g
+       id="g3562"
+       clip-path="url(#clip18)">
+      <text
+         id="text3560"
+         transform="translate(193.871,1560)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">beständigkeit</text>
+    </g>
+    <g
+       id="g3566"
+       clip-path="url(#clip19)">
+      <text
+         id="text3564"
+         transform="translate(133.386,1220)"
+         font-size="73px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS vs. PC</text>
+    </g>
+    <g
+       id="g3570"
+       clip-path="url(#clip20)">
+      <rect
+         style="fill:url(#fill21)"
+         id="rect3568"
+         fill="url(#fill21)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         height="23"
+         width="22"
+         y="1566.5"
+         x="1506.5" />
+    </g>
+    <g
+       id="g3574"
+       clip-path="url(#clip22)">
+      <text
+         id="text3572"
+         transform="translate(1538.33,1589)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS</text>
+    </g>
+    <g
+       id="g3578"
+       clip-path="url(#clip23)">
+      <rect
+         id="rect3576"
+         fill-opacity="0.101961"
+         fill="#ed7d31"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="16.0417"
+         stroke="#ed7d31"
+         height="22"
+         width="23"
+         y="1644"
+         x="1506" />
+    </g>
+    <g
+       id="g3582"
+       clip-path="url(#clip24)">
+      <text
+         id="text3580"
+         transform="translate(1538.33,1667)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">PC</text>
+    </g>
+    <g
+       id="g3586"
+       clip-path="url(#clip25)">
+      <path
+         id="path3584"
+         fill="none"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="3.4375"
+         stroke="#d9d9d9"
+         d="m 2235.57,1558.55 55.01,40 m 0,0 -21.01,65 m 0,0 h -68 m 0,0 -21,-65 m 0,0 55,-40 m 0,-58 110.01,80 m 0,0 -42,130.01 m 0,0 h -136.01 m 0,0 -42,-130.01 m 0,0 110,-80 m 0,-58 165.01,120 m 0,0 -63,194.01 m 0,0 h -204.01 m 0,0 -63,-194.01 m 0,0 165,-120 m 0,-58 220.01,160 m 0,0 -84,259.01 m 0,0 h -272.01 m 0,0 -84,-259.01 m 0,0 220,-160 m 0,-58.05 274.93,200.05 m 0,0 -104.92,323.95 m 0,0 h -340.01 m 0,0 -105.07,-323.95 m 0,0 275.07,-200.05" />
+    </g>
+    <g
+       id="g3590"
+       clip-path="url(#clip26)">
+      <path
+         style="fill:url(#fill27)"
+         id="path3588"
+         fill="url(#fill27)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         d="m 2235.57,1326.5 274.93,200.05 -104.92,323.95 -255.01,-116.94 -53.07,-162.01 z" />
+    </g>
+    <g
+       id="g3594"
+       clip-path="url(#clip28)">
+      <path
+         id="path3592"
+         fill-opacity="0.101961"
+         fill="#a5a5a5"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="18.3333"
+         stroke="#a5a5a5"
+         d="m 2235,1472 v 144.05 0 l -170,234.95 33.07,-278.95 z" />
+    </g>
+    <g
+       id="g3598"
+       clip-path="url(#clip29)">
+      <text
+         id="text3596"
+         transform="translate(2141.57,1630)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,0</text>
+    </g>
+    <g
+       id="g3602"
+       clip-path="url(#clip30)">
+      <text
+         id="text3600"
+         transform="translate(2141.57,1572)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,2</text>
+    </g>
+    <g
+       id="g3606"
+       clip-path="url(#clip31)">
+      <text
+         id="text3604"
+         transform="translate(2141.57,1514)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,4</text>
+    </g>
+    <g
+       id="g3610"
+       clip-path="url(#clip32)">
+      <text
+         id="text3608"
+         transform="translate(2141.57,1457)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,6</text>
+    </g>
+    <g
+       id="g3614"
+       clip-path="url(#clip33)">
+      <text
+         id="text3612"
+         transform="translate(2141.57,1399)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,8</text>
+    </g>
+    <g
+       id="g3618"
+       clip-path="url(#clip34)">
+      <text
+         id="text3616"
+         transform="translate(2141.57,1341)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">1,0</text>
+    </g>
+    <g
+       id="g3622"
+       clip-path="url(#clip35)">
+      <text
+         id="text3620"
+         transform="translate(2127.56,1249)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Mineralische</text>
+    </g>
+    <g
+       id="g3626"
+       clip-path="url(#clip36)">
+      <text
+         id="text3624"
+         transform="translate(2119.05,1299)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Schmierstoffe</text>
+    </g>
+    <g
+       id="g3630"
+       clip-path="url(#clip37)">
+      <text
+         id="text3628"
+         transform="translate(2638.68,1510)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aliph.</text>
+    </g>
+    <g
+       id="g3634"
+       clip-path="url(#clip38)">
+      <text
+         id="text3632"
+         transform="translate(2521.78,1560)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Kohlenwasserstoffe</text>
+    </g>
+    <g
+       id="g3638"
+       clip-path="url(#clip39)">
+      <text
+         id="text3636"
+         transform="translate(2412.42,1871)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aceton</text>
+    </g>
+    <g
+       id="g3642"
+       clip-path="url(#clip40)">
+      <text
+         id="text3640"
+         transform="translate(1911.24,1871)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Alkohole</text>
+    </g>
+    <g
+       id="g3646"
+       clip-path="url(#clip41)">
+      <text
+         id="text3644"
+         transform="translate(1651.82,1510)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">UV- / Witterungs-</text>
+    </g>
+    <g
+       id="g3650"
+       clip-path="url(#clip42)">
+      <text
+         id="text3648"
+         transform="translate(1687.12,1560)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">beständigkeit</text>
+    </g>
+    <g
+       id="g3654"
+       clip-path="url(#clip43)">
+      <text
+         id="text3652"
+         transform="translate(1626.64,1220)"
+         font-size="73px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS vs. PS</text>
+    </g>
+    <g
+       id="g3658"
+       clip-path="url(#clip44)">
+      <rect
+         style="fill:url(#fill45)"
+         id="rect3656"
+         fill="url(#fill45)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         height="23"
+         width="22"
+         y="1566.5"
+         x="2999.5" />
+    </g>
+    <g
+       id="g3662"
+       clip-path="url(#clip46)">
+      <text
+         id="text3660"
+         transform="translate(3031.58,1589)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS</text>
+    </g>
+    <g
+       id="g3666"
+       clip-path="url(#clip47)">
+      <rect
+         id="rect3664"
+         fill-opacity="0.101961"
+         fill="#a5a5a5"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="16.0417"
+         stroke="#a5a5a5"
+         height="22"
+         width="23"
+         y="1644"
+         x="2999" />
+    </g>
+    <g
+       id="g3670"
+       clip-path="url(#clip48)">
+      <text
+         id="text3668"
+         transform="translate(3031.58,1667)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">PS</text>
+    </g>
+    <g
+       id="g3674"
+       clip-path="url(#clip49)">
+      <path
+         id="path3672"
+         fill="none"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="3.4375"
+         stroke="#d9d9d9"
+         d="m 741.525,2548.58 55.001,40 m 0,0 -21,65.01 m 0,0 h -68.003 m 0,0 -21,-65.01 m 0,0 55.002,-40 m 0,-58 110.003,80 m 0,0 -42.001,129.01 m 0,0 H 673.522 m 0,0 -42.001,-129.01 m 0,0 110.004,-80 m 0,-58 165.005,120 m 0,0 -63.002,194.01 m 0,0 H 639.521 m 0,0 -63.002,-194.01 m 0,0 165.006,-120 m 0,-58 220.007,160 m 0,0 -84.003,259.01 m 0,0 H 605.52 m 0,0 -84.003,-259.01 m 0,0 220.008,-160 m 0,-58.08 274.975,200.08 m 0,0 -104.97,323.92 m 0,0 H 571.519 m 0,0 L 466.5,2516.58 m 0,0 275.025,-200.08" />
+    </g>
+    <g
+       id="g3678"
+       clip-path="url(#clip50)">
+      <path
+         style="fill:url(#fill51)"
+         id="path3676"
+         fill="url(#fill51)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         d="M 741.525,2316.5 1016.5,2516.58 911.53,2840.5 656.522,2723.59 603.5,2561.58 Z" />
+    </g>
+    <g
+       id="g3682"
+       clip-path="url(#clip52)">
+      <path
+         id="path3680"
+         fill-opacity="0.101961"
+         fill="#5b9bd5"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="18.3333"
+         stroke="#5b9bd5"
+         d="M 741.024,2317 1017,2517.08 912.03,2841 656.021,2723.09 466,2517.08 Z" />
+    </g>
+    <g
+       id="g3686"
+       clip-path="url(#clip53)">
+      <text
+         id="text3684"
+         transform="translate(647.598,2620)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,0</text>
+    </g>
+    <g
+       id="g3690"
+       clip-path="url(#clip54)">
+      <text
+         id="text3688"
+         transform="translate(647.598,2562)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,2</text>
+    </g>
+    <g
+       id="g3694"
+       clip-path="url(#clip55)">
+      <text
+         id="text3692"
+         transform="translate(647.598,2504)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,4</text>
+    </g>
+    <g
+       id="g3698"
+       clip-path="url(#clip56)">
+      <text
+         id="text3696"
+         transform="translate(647.598,2447)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,6</text>
+    </g>
+    <g
+       id="g3702"
+       clip-path="url(#clip57)">
+      <text
+         id="text3700"
+         transform="translate(647.598,2389)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,8</text>
+    </g>
+    <g
+       id="g3706"
+       clip-path="url(#clip58)">
+      <text
+         id="text3704"
+         transform="translate(647.598,2331)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">1,0</text>
+    </g>
+    <g
+       id="g3710"
+       clip-path="url(#clip59)">
+      <text
+         id="text3708"
+         transform="translate(633.584,2239)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Mineralische</text>
+    </g>
+    <g
+       id="g3714"
+       clip-path="url(#clip60)">
+      <text
+         id="text3712"
+         transform="translate(625.082,2289)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Schmierstoffe</text>
+    </g>
+    <g
+       id="g3718"
+       clip-path="url(#clip61)">
+      <text
+         id="text3716"
+         transform="translate(1144.71,2500)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aliph.</text>
+    </g>
+    <g
+       id="g3722"
+       clip-path="url(#clip62)">
+      <text
+         id="text3720"
+         transform="translate(1027.81,2550)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Kohlenwasserstoffe</text>
+    </g>
+    <g
+       id="g3726"
+       clip-path="url(#clip63)">
+      <text
+         id="text3724"
+         transform="translate(918.444,2861)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aceton</text>
+    </g>
+    <g
+       id="g3730"
+       clip-path="url(#clip64)">
+      <text
+         id="text3728"
+         transform="translate(417.269,2861)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Alkohole</text>
+    </g>
+    <g
+       id="g3734"
+       clip-path="url(#clip65)">
+      <text
+         id="text3732"
+         transform="translate(157.845,2500)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">UV- / Witterungs-</text>
+    </g>
+    <g
+       id="g3738"
+       clip-path="url(#clip66)">
+      <text
+         id="text3736"
+         transform="translate(193.149,2550)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">beständigkeit</text>
+    </g>
+    <g
+       id="g3742"
+       clip-path="url(#clip67)">
+      <text
+         id="text3740"
+         transform="translate(133.386,2210)"
+         font-size="73px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS vs. ASA</text>
+    </g>
+    <g
+       id="g3746"
+       clip-path="url(#clip68)">
+      <rect
+         style="fill:url(#fill69)"
+         id="rect3744"
+         fill="url(#fill69)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         height="23"
+         width="23"
+         y="2556.5"
+         x="1504.5" />
+    </g>
+    <g
+       id="g3750"
+       clip-path="url(#clip70)">
+      <text
+         id="text3748"
+         transform="translate(1536.88,2579)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS</text>
+    </g>
+    <g
+       id="g3754"
+       clip-path="url(#clip71)">
+      <rect
+         id="rect3752"
+         fill-opacity="0.101961"
+         fill="#5b9bd5"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="16.0417"
+         stroke="#5b9bd5"
+         height="22"
+         width="22"
+         y="2634"
+         x="1505" />
+    </g>
+    <g
+       id="g3758"
+       clip-path="url(#clip72)">
+      <text
+         id="text3756"
+         transform="translate(1536.88,2657)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ASA</text>
+    </g>
+    <g
+       id="g3762"
+       clip-path="url(#clip73)">
+      <path
+         id="path3760"
+         fill="none"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="3.4375"
+         stroke="#d9d9d9"
+         d="m 2233.57,2548.58 55.01,40 m 0,0 -21.01,65.01 m 0,0 h -68 m 0,0 -21,-65.01 m 0,0 55,-40 m 0,-58 110.01,80 m 0,0 -42,129.01 m 0,0 h -136.01 m 0,0 -42,-129.01 m 0,0 110,-80 m 0,-58 165.01,120 m 0,0 -63,194.01 m 0,0 h -204.01 m 0,0 -63,-194.01 m 0,0 165,-120 m 0,-58 220.01,160 m 0,0 -84,259.01 m 0,0 h -272.01 m 0,0 -84,-259.01 m 0,0 220,-160 m 0,-58.08 274.93,200.08 m 0,0 -104.92,323.92 m 0,0 h -340.01 m 0,0 -105.07,-323.92 m 0,0 275.07,-200.08" />
+    </g>
+    <g
+       id="g3766"
+       clip-path="url(#clip74)">
+      <path
+         style="fill:url(#fill75)"
+         id="path3764"
+         fill="url(#fill75)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         d="m 2233.57,2316.5 274.93,200.08 -104.92,323.92 -255.01,-116.91 -53.07,-162.01 z" />
+    </g>
+    <g
+       id="g3770"
+       clip-path="url(#clip76)">
+      <path
+         id="path3768"
+         fill-opacity="0.101961"
+         fill="#ffc000"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="18.3333"
+         stroke="#ffc000"
+         d="m 2233.07,2317 275.93,200.08 -275.93,89.01 -85,116.91 -52.07,-160.92 z" />
+    </g>
+    <g
+       id="g3774"
+       clip-path="url(#clip77)">
+      <text
+         id="text3772"
+         transform="translate(2139.47,2620)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,0</text>
+    </g>
+    <g
+       id="g3778"
+       clip-path="url(#clip78)">
+      <text
+         id="text3776"
+         transform="translate(2139.47,2562)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,2</text>
+    </g>
+    <g
+       id="g3782"
+       clip-path="url(#clip79)">
+      <text
+         id="text3780"
+         transform="translate(2139.47,2504)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,4</text>
+    </g>
+    <g
+       id="g3786"
+       clip-path="url(#clip80)">
+      <text
+         id="text3784"
+         transform="translate(2139.47,2447)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,6</text>
+    </g>
+    <g
+       id="g3790"
+       clip-path="url(#clip81)">
+      <text
+         id="text3788"
+         transform="translate(2139.47,2389)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">0,8</text>
+    </g>
+    <g
+       id="g3794"
+       clip-path="url(#clip82)">
+      <text
+         id="text3792"
+         transform="translate(2139.47,2331)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         fill="#7f7f7f">1,0</text>
+    </g>
+    <g
+       id="g3798"
+       clip-path="url(#clip83)">
+      <text
+         id="text3796"
+         transform="translate(2125.46,2239)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Mineralische</text>
+    </g>
+    <g
+       id="g3802"
+       clip-path="url(#clip84)">
+      <text
+         id="text3800"
+         transform="translate(2116.96,2289)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Schmierstoffe</text>
+    </g>
+    <g
+       id="g3806"
+       clip-path="url(#clip85)">
+      <text
+         id="text3804"
+         transform="translate(2636.58,2500)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aliph.</text>
+    </g>
+    <g
+       id="g3810"
+       clip-path="url(#clip86)">
+      <text
+         id="text3808"
+         transform="translate(2519.68,2550)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Kohlenwasserstoffe</text>
+    </g>
+    <g
+       id="g3814"
+       clip-path="url(#clip87)">
+      <text
+         id="text3812"
+         transform="translate(2410.32,2861)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Aceton</text>
+    </g>
+    <g
+       id="g3818"
+       clip-path="url(#clip88)">
+      <text
+         id="text3816"
+         transform="translate(1909.14,2861)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">Alkohole</text>
+    </g>
+    <g
+       id="g3822"
+       clip-path="url(#clip89)">
+      <text
+         id="text3820"
+         transform="translate(1649.72,2500)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">UV- / Witterungs-</text>
+    </g>
+    <g
+       id="g3826"
+       clip-path="url(#clip90)">
+      <text
+         id="text3824"
+         transform="translate(1685.02,2550)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">beständigkeit</text>
+    </g>
+    <g
+       id="g3830"
+       clip-path="url(#clip91)">
+      <text
+         id="text3828"
+         transform="translate(1626.64,2210)"
+         font-size="73px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS vs. SAN</text>
+    </g>
+    <g
+       id="g3834"
+       clip-path="url(#clip92)">
+      <rect
+         style="fill:url(#fill93)"
+         id="rect3832"
+         fill="url(#fill93)"
+         stroke-opacity="0.439216"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="4.58333"
+         stroke="#4472c4"
+         height="23"
+         width="22"
+         y="2556.5"
+         x="2995.5" />
+    </g>
+    <g
+       id="g3838"
+       clip-path="url(#clip94)">
+      <text
+         id="text3836"
+         transform="translate(3027.38,2579)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">ABS</text>
+    </g>
+    <g
+       id="g3842"
+       clip-path="url(#clip95)">
+      <rect
+         id="rect3840"
+         fill-opacity="0.101961"
+         fill="#ffc000"
+         stroke-opacity="0.301961"
+         stroke-miterlimit="10"
+         stroke-linejoin="round"
+         stroke-width="16.0417"
+         stroke="#ffc000"
+         height="22"
+         width="23"
+         y="2634"
+         x="2995" />
+    </g>
+    <g
+       id="g3846"
+       clip-path="url(#clip96)">
+      <text
+         id="text3844"
+         transform="translate(3027.38,2657)"
+         font-size="41px"
+         font-weight="400"
+         font-family="Calibri, Calibri_MSFontService, sans-serif">SAN</text>
+    </g>
+  </g>
+</svg>
