@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.717369mm"
+   height="20.346819mm"
+   viewBox="0 0 64.717369 20.346819"
+   version="1.1"
+   id="svg2836"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="butadien.svg">
+  <defs
+     id="defs2830" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="53.729116"
+     inkscape:cy="178.45068"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-91.617505,-100.95159)">
+    <g
+       id="g2810"
+       style="display:inline"
+       transform="translate(74.829316,88.273722)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 34.04054,25.154889 c 10.288077,-5.939825 10.258425,-5.922706 10.258425,-5.922706 l 9.984463,5.764532 10.240054,-5.912096"
+         id="path945" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 33.317331,23.973278 10.16212,-5.867101"
+         id="path947" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 55.145456,26.056872 65.162584,20.27348"
+         id="path949" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="65.26577"
+         y="20.269112"
+         id="text953"><tspan
+           sodipodi:role="line"
+           id="tspan951"
+           x="65.26577"
+           y="20.269112"
+           style="stroke-width:0.264583">CH<tspan
+   style="font-size:5.64444px"
+   id="tspan955"
+   dy="1.8190107">2</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="15.858016"
+         y="31.172604"
+         id="text959"><tspan
+           sodipodi:role="line"
+           id="tspan957"
+           x="15.858016"
+           y="31.172604"
+           style="stroke-width:0.264583"
+           dy="0 0 -1.8520837">H<tspan
+   style="font-size:5.64444px"
+   id="tspan961"
+   dy="1.8520837">2</tspan>C</tspan></text>
+    </g>
+  </g>
+</svg>
