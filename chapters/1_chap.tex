@@ -1,57 +1,13 @@
 %LTeX: language=de-DE
 \chapter{Steckbrief}
-    \begin{table}[h]
-        \caption[Eigenschaften auf einen Blick]{Eigenschaften auf einen Blick\cite{materialdatenbank.ABS.matweb.com.20210210,ABS.datenbank.PubChem.20210210}.}
-        \centering
-        \begin{tabular}{@{}ll@{}}
-            \toprule
-            Bezeichnungen                       & \textbf{A}crylnitril-\textbf{B}utadien-\textbf{S}tyrol (ABS)\\
-            Monomere                            & Acrylnitril, IUPAC: Prop-2-ennitril\\
-                                                & 1,3-Butadien, IUPAC: Buta-1,3-dien\\
-                                                & Styrol, IUPAC: Ethenylbenzen\\
-            Klassifizierung                     & Thermoplast, Copolymer\\
-            Dichte                              & 1,01 – 1,2\SI{}{\nicefrac{g}{m^3}}\\
-            Wasserabsorption                    & 0,25 – 1\SI{}{\percent}\\
-            %
-            \midrule
-            \textit{Mechanische Eigenschaften}  & \\
-            Elastitzitätsmodul                  & 1 – 2,65\SI{}{GPa}\\
-            Biegefestigkeit                     & 0,379 – 593\SI{}{MPa}\\
-            Streckgrenze                        & 13 – 65\SI{}{MPa}\\
-            Zugfestigkeit                       & 27,6 – 55,2\SI{}{MPa}\\
-            Kugeldruckhärte                     & 65 – 110\SI{}{MPa}\\
-            Vickers-Härte                       & 54,9 – 150\SI{}{MPa}\\
-            %
-            \midrule
-            \textit{Elektrische Eigenschaften}  & \\
-            Elektrischer Widerstand             & \(10^9\) – \(10^{17}\)\SI{}{\ohm}\\
-            Dielektrische Konstante             & 2,6 – 3,3\\
-            Durchschlagsfestigkeit              & 18 – 50\SI{}{\nicefrac{kV}{mm}}\\
-            %
-            \midrule
-            \textit{Thermische Eigenschaften}   & \\
-            Maximale Temperatur (Dauerhaft)     & 60 – 100\SI{}{\celsius} \\
-            Glasübergangstemperatur             & 108 – 109\SI{}{\celsius} \\
-            \(O_2\)-Index                       & 19\SI{}{\percent} \\
-            Lin. Längenausdehnungskoeff.        & 40 – 110\SI{}{\nicefrac{\micro m}{K}} \\
-            Wärmeleitfähigkeit                  & 0,15 – 0,2\SI{}{\nicefrac{W}{K}}\\
-            %
-            \midrule
-            \textit{Optische Eigenschaften}     & \\
-            Transmissivität                     & 0 – 91\SI{}{\percent}\\
-            \bottomrule%
-        \end{tabular}%
-        \label{tab:steckbeef}
-    \end{table}
-
     \section{Einordnung}
         Acrylnitril-Butadien-Styrol oder kurz ABS ist ein Terpolymer, dass zur Gruppe der (amorphen) Thermoplasten gehört. Aufgrund
         der chemischen Struktur ist eine weitere Unterordnung in die \enquote{hochschlagfesten Styrol-Copolymere}\cite{Eyerer.2020.Polymer.Engineering.1}
         möglich.
 
         Weitere bekannte Vertreter der amorphen Thermoplaste sind das Polyvinylchlorid (PVC), Polystyrol (PS), Polycarbonat (PC)
-        oder Polymethylmethacrylat (PMMA). Ihnen allen gemein ist eine gute bis sehr gute optische Transmissivität bedingt durch ihren amorphen Aufbau.
-        \newpage
+        oder Polymethylmethacrylat (PMMA). Ihnen allen gemein ist eine gute bis sehr gute optische Transmissivität bedingt durch ihren amorphen Aufbau (vgl. \cref{tab:steckbeef}).
+        % \newpage
         \subsection{Varianten und Vergleich}
             Die folgenden Diagramme sollen einen Überblick über die wichtigsten Schlüsseleigenschaften des ABS im direkten Vergleich
             mit seinen Verwandten Derivaten und Polycarbonat als Referenz liefern. Werte wurden jeweils auf das in seiner
@@ -78,7 +34,7 @@
 
             Es sei an dieser Stelle angemerkt, dass ASA als eine Weiterentwicklung des ABS zu verstehen ist (siehe \cref{sec:geschichte}).
             So überrascht es wenig, dass dem gegenüber ABS in vielen Punkten unterliegt.
-            \newpage
+            % \newpage
             \begin{figure}[H]
                 \centering
                 \includesvg[inkscapelatex=false, width=\textwidth]{RadarCharts/thermal/thermal.svg}
@@ -100,6 +56,14 @@
             Als Rohstoff zur additiven Fertigung bewegen sich Preise – je nach Marktsegment – zwischen €15 und €120.
 
     \section{Strukturformel}
+        \Cref{fig:strukturformeln_monomere} zeigt die Strukturformeln der beteiligten Monomere während in \cref{fig:strukturformeln polymere}
+        die jeweiligen polymeren Formen dargestellt sind. Insbesondere in Blick auf den Butadienkautschuk ist erkennbar,
+        dass nach der Polymerisation sich mittig eine kunjugierte Doppelbindung ausbildet flankiert von Einfachbindungen,
+        die wiederum als Andockstellen für weitere Polymere dienen. Im Falle weiterer Butadienpolymere als Bindungspartner
+        bilden sich alternierende Doppel- und Einfachbindungen. Letztere geben dem Endmaterial seine duktile Komponente und
+        damit seine Schlagfestigkeit. So erschließt sich hieraus, dass die Duktilität des vorliegenden ABS mit der Länge
+        dieser Butadienketten skaliert. Wie später noch detaillierter diskutiert wird, bieten die Doppelbindungen des Butadienpolymers
+        Angriffsfläche für beispielsweise strahlungsbedingte Verwitterung.
         \begin{figure}[H]%
             \centering
             \adjustbox{max width=.3\textwidth}{
@@ -114,8 +78,9 @@
                 \subfloat[1,3-Butadien.\label{subfig:structural formula butadiene}]{\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/butadien.svg}}%
             }
             \caption[Strukturformeln der monomeren Bestandteile des ABS]{Strukturformeln der monomeren Bestandteile des ABS.}%
-            \label{fig:strukturformeln monomere}%
+            \label{fig:strukturformeln_monomere}%
         \end{figure}
+
         %
         \begin{figure}[H]%
             \centering
@@ -137,7 +102,7 @@
         ABS besteht aus den drei Monomeren Acrylnitril, Butadien und Styrol. Die folgenden Abschnitte sollen einen groben
         Überblick zur Synthese der jeweiligen Monomere verschaffen, um darauf aufbauend Verfahren zur Polymerisation aufzuzeigen.
         
-        \subsection{Acrylnitril}
+        \subsection*{Acrylnitril}
             Eine Möglichkeit der Synthese von Acrylnitril, die technisch heute noch in großem Maßstab umgesetzt wird, ist das nach dem gleichnamigen
             Unternehmen benannte \textsc{Sohio}-Verfahren (siehe \cref{sec:geschichte}).
 
@@ -145,11 +110,11 @@
             des einfach gebundenen Kohlenstoffatoms abgespalten und der Stickstoff des Ammoniaks lagert sich an. Die Edukte der
             stark exothermen Reaktion sind das gewünschte Acrylnitril und Wasser \cite{sohio.process.patent.1959.9201957}.
 
-        \subsection{Butadien}
+        \subsection*{Butadien}
             Das Monomer 1,3-Butadien findet in polymerisierter Form (Polybutadien) überwiegend in der Autoreifenindustrie als synthetischer Gummi
             Anwendung. Es ist ein Nebenprodukt bei der Aufspaltung langkettiger Kohlenwasserstoffe meist fossilen Ursprungs.
 
-        \subsection{Styrol}
+        \subsection*{Styrol}
             Eines der heute wichtigsten Verfahren zur Produktion von Styrol ist die Dehydrierung von Ethylbenzol
             an einem mineralischen Katalysator in Gegenwart von Wasserdampf unter hohem Druck \cite{styrol.synthese.Liquid.Phase.Alkylation.of.Benzene.Bellussi.1995}.
 
@@ -164,15 +129,7 @@
             % wird mit einem getrennt hergestellten SAN-Latex abgemischt, koaguliert und getrocknet. \cite{Domininghaus.1998.Kunststoffe.und.ihre.Eigenschaften,Eyerer.2020.Polymer.Engineering.1}
     \section{Anwendung}\label{sec:anwendung}
             Aus der Kategorie der Kunststoffe ist Acrylnitril-Butadien-Styrol das meist verwendete Material für Produkt und
-            Ingenieursanwendungen.
-
-            Aufgrund seiner Temperaturbeständigkeit und hohen Schlagfestigkeit findet es breite Anwendung insbesondere in der
-            Automobilindustrie zur Fertigung von Interieur, als Gehäuseteile für Elektronikprodukte oder auch Spielzeug. So verdankt etwa der Hersteller
-            \textsc{LEGO} seinen Siegeszug der besonderen Eigenschaftenkomposition des Copolymers. Die thermoplastische Komponente
-            des in hohen Anteilen vorhandenen Polystyrols macht die Produktion einfach, schnell, günstig und damit geeignet
-            für die Massenproduktion. Die durch das 1,3-Butadien verliehene Elastizität sorgt für Formbeständigkeit auch bei
-            wiederholter Nutzung der \textsc{LEGO}-Steine.
-
+            Ingenieursanwendungen.\par
             \begin{wrapfigure}{l}{.4\linewidth}
                 \centering
                 \vspace{-\baselineskip}
@@ -182,6 +139,13 @@
                 \caption[Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung]{Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung für einen Eigenbau-Stiftplotter.}%
                 \label{fig:3dDruck ABS teil}
             \end{wrapfigure}
+            Aufgrund seiner Temperaturbeständigkeit und hohen Schlagfestigkeit (vgl. hierzu \cref{fig:pc mechanical profile} und \cref{fig:pc thermal profile}) findet es breite Anwendung insbesondere in der
+            Automobilindustrie zur Fertigung von Interieur, als Gehäuseteile für Elektronikprodukte oder auch Spielzeug. So verdankt etwa der Hersteller
+            \textsc{LEGO} seinen Siegeszug der besonderen Eigenschaftenkomposition des Terpolymers. Die thermoplastische Komponente
+            des in hohen Anteilen vorhandenen Polystyrols macht die Produktion einfach, schnell, günstig und damit geeignet
+            für die Massenproduktion. Die durch das 1,3-Butadien verliehene Elastizität sorgt für Formbeständigkeit auch bei
+            wiederholter Nutzung der \textsc{LEGO}-Steine.
+
             Eine weitere, heute nicht mehr zu vernachlässigende Anwendung findet ABS als Rohmaterial in der additiven Fertigung
              – speziell im \textit{Fused Deposition Modeling}\footnote{Dt.: Schmelzschichtmodellierung.} – sowohl im Hobby-
             wie im professionellen Bereich. Hierbei wird das Material – zuvor zu einem Faden von üblicherweise \SI{1,75}{mm}
@@ -191,24 +155,21 @@
             Aceton gut löslich zu sein. Dem Fertigungsverfahren intrinsisch weisen die fertigen Teile eine relativ hohe
             Oberflächenrauigkeit auf. Wenn gewünscht lassen sich die Teile mit handelsüblichem Aceton bedampfen, um so
             dem Druckguss vergleichbare Oberflächengüte zu erreichen. Nachteilhaft wirkt sich jedoch sein in diesem Anwendungsgebiet
-            vergleichsweise hoher Längenausdehnungskoeffizient aus. Während des Verarbeitungsprozesses muss die umgebende Luft
+            vergleichsweise hoher Längenausdehnungskoeffizient von \(\approx \SI{40-110}{\nicefrac{\micro m}{K}}\) (\cref{tab:steckbeef}) aus. Während des Verarbeitungsprozesses muss die umgebende Luft
             auf Temperaturen deutlich über Raumtemperatur gehalten werden während nennenswerte Schwankungen der Temperatur
             möglichst unterdrückt werden müssen, um unerwünschte Deformationen oder schlimmstenfalls einen vollständigen
             Verlust der Druckbetthaftung zu verhindern\footnote{\textit{Warping} oder zu Deutsch Verziehen/Verwölben.}.
 
-    \section{Eigenschaften}
-            Chemische und thermische Standfestigkeit durch Acrylnitril, Thermoplastisch verformbar durch Polystyrol, Zähigkeit
-            und Schlagfestigkeit durch 1,3-Butadien.
-            
-            Als Nitrilkautschuk ist unter anderem in Form von Nitrilhandschuhen ist das Copolymer aus Acrylnitril und
-            1,3-Butadien gut bekannt. Der Butadienanteil verleiht dem Material seine Elastitzität.
-
-            Mischungsverhältnisse dieser drei Komponenten beeinflussen die jeweils mit ihnen assoziierten Eigenschaften des
-            Gesamtmaterials. Hierdurch lassen sich durch relativ einfache Weise eine Großzahl verschiedener Varianten zum
-            spezialisierten Einsatz produzieren. Dies spiegelt sich in der Vielzahl der auf dem Markt erhältlichen und unter
-            verschiedenen Handelsnamen vertriebenen Varianten wider.
-
-            Eine eher mäßige Wetterstandfestigkeit rührt vom Polybutadien-Rückrad her. Die konjugierte Doppelbindung (erkennbar
+    \section{Struktur und Eigenschaften}
+            % \section{Strukturformel}
+            \Cref{fig:strukturformeln_monomere} zeigt die Strukturformeln der beteiligten Monomere während in \cref{fig:strukturformeln polymere}
+            die jeweiligen polymeren Formen dargestellt sind. Insbesondere in Blick auf den Butadienkautschuk ist erkennbar,
+            dass nach der Polymerisation sich mittig eine kunjugierte Doppelbindung ausbildet flankiert von Einfachbindungen,
+            die wiederum als Andockstellen für weitere Polymere dienen. Im Falle weiterer Butadienpolymere als Bindungspartner
+            bilden sich alternierende Doppel- und Einfachbindungen. Letztere geben dem Endmaterial seine duktile Komponente und
+            damit seine Schlagfestigkeit. So erschließt sich, dass die Duktilität des vorliegenden ABS mit der Länge
+            dieser Butadienketten skaliert.\par
+            Eine eher mäßige Wetterstandfestigkeit rührt von eben diesem Polybutadien-Rückrad her. Die Doppelbindung (erkennbar
             in \cref{subfig:structural formula polybutadiene}) des
             Butadiens wird durch einfallendes Licht im ultravioletten Spektralbereich angeregt. In Gegenwart von Sauerstoff
             werden Polymerketten unter Bildung von Hydroxyl- und Carboxylgruppen aufgespalten. Ultimativ führt dies zu
@@ -216,6 +177,49 @@
             Um dem entgegenzuwirken werden mitunter zwar Fotostabilisatoren und/oder Radikalfänger eingesetzt, in der 
             Regel jedoch wird das ABS, um seine mechanischen Eigenschaften möglichst zu erhalten, mit einem schützenden Lack
             überzogen oder galvanisch behandelt \cite{Thermal.and.Photo-Degradation.of.Unstabilized.ABS.Adeniyi.1984,Domininghaus.1998.Kunststoffe.und.ihre.Eigenschaften}.
+            \begin{figure}[H]%
+                \centering
+                \adjustbox{max width=.3\textwidth}{
+                    \subfloat[Acrylnitril.\label{subfig:structural formula acrylonitril}]{\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/acrylnitril.svg}}%
+                }
+                \qquad
+                \adjustbox{max width=.3\textwidth}{
+                    \subfloat[Styrol.\label{subfig:structural formula styrene}]{\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/styrol.svg}}%
+                }
+                \qquad
+                \adjustbox{max width=.3\textwidth}{
+                    \subfloat[1,3-Butadien.\label{subfig:structural formula butadiene}]{\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/butadien.svg}}%
+                }
+                \caption[Strukturformeln der monomeren Bestandteile des ABS]{Strukturformeln der monomeren Bestandteile des ABS.}%
+                \label{fig:strukturformeln_monomere}%
+            \end{figure}
+            Unter anderem in Form von Nitrilhandschuhen ist das Copolymer aus Acrylnitril und
+            1,3-Butadien unter der Bezeichnung Nitrilkautschuk gut bekannt. Der Butadienanteil verleiht dem Material seine Elastitzität,
+            die stark polare Nitrilgruppe seine chemische Beständigkeit. Gleiches leistet das Polyacrylnitril in der Butadien-Styrol-Matrix.
+            %
+            \begin{figure}[H]%
+                \centering
+                \adjustbox{max width=.3\linewidth}{
+                    \subfloat[Polyacrylnitril.\label{subfig:structural formula polyacrylonitril}]{\quad\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/polyacrylnitril.svg}\qquad}%
+                }
+                \qquad
+                \adjustbox{max width=.3\linewidth}{
+                    \subfloat[Polystyrol.\label{subfig:structural formula polystyrene}]{\qquad\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/polystyrol.svg}\qquad}%
+                }
+                \qquad
+                \adjustbox{max width=.3\linewidth}{
+                    \subfloat[Polybutadien.\label{subfig:structural formula polybutadiene}]{\qquad\includesvg[inkscapelatex=false, scale=.65]{zeichnungen/polybutadien.svg}\qquad}%
+                }
+                \caption[Strukturformeln der polymeren Bestandteile des ABS]{Strukturformeln der polymeren Bestandteile des ABS.}%
+                \label{fig:strukturformeln polymere}%
+            \end{figure}
+            Chemische und thermische Standfestigkeit durch Acrylnitril, Thermoplastisch verformbar durch Polystyrol, Zähigkeit
+            und Schlagfestigkeit durch 1,3-Butadien.
+            
+            Mischungsverhältnisse dieser drei Komponenten beeinflussen die jeweils mit ihnen assoziierten Eigenschaften des
+            Gesamtmaterials. Hierdurch lassen sich durch relativ einfache Weise eine Großzahl verschiedener Varianten zum
+            spezialisierten Einsatz produzieren. Dies spiegelt sich in der Vielzahl der auf dem Markt erhältlichen und unter
+            verschiedenen Handelsnamen vertriebenen Varianten wider.
 
     \section{Besonderheiten}
             Wie bereits in den vorherigen Kapiteln erwähnt bietet ABS eine Mischung günstiger mechanischer Eigenschaften
