@@ -2,8 +2,7 @@
 \chapter{Steckbrief}
     \section{Einordnung}
         Acrylnitril-Butadien-Styrol oder kurz ABS ist ein Terpolymer, dass zur Gruppe der (amorphen) Thermoplasten gehört. Aufgrund
-        der chemischen Struktur ist eine weitere Unterordnung in die \enquote{hochschlagfesten Styrol-Copolymere}\cite{Eyerer.2020.Polymer.Engineering.1}
-        möglich.
+        der chemischen Struktur ist eine weitere Unterordnung in die \enquote{hochschlagfesten Styrol-Copolymere} möglich \cite{Eyerer.2020.Polymer.Engineering.1}.
 
         Weitere bekannte Vertreter der amorphen Thermoplaste sind das Polyvinylchlorid (PVC), Polystyrol (PS), Polycarbonat (PC)
         oder Polymethylmethacrylat (PMMA). Ihnen allen gemein ist eine gute bis sehr gute optische Transmissivität bedingt durch ihren amorphen Aufbau (vgl. \cref{tab:steckbeef}).
@@ -17,7 +16,7 @@
             \begin{figure}[h]
                 \centering
                 \includesvg[inkscapelatex=false, width=\textwidth]{RadarCharts/mechanical/mechanical.svg}
-                \caption{Mechanisches Profil.}
+                \caption[Mechanisches Profil]{Mechanisches Profil.}
                 \label{fig:pc mechanical profile}
             \end{figure}\par
             %
@@ -38,21 +37,21 @@
             \begin{figure}[H]
                 \centering
                 \includesvg[inkscapelatex=false, width=\textwidth]{RadarCharts/thermal/thermal.svg}
-                \caption{Thermisches Profil.}%
+                \caption[Thermisches Profil]{Thermisches Profil.}%
                 \label{fig:pc thermal profile}
             \end{figure}
             %
             \begin{figure}[H]
                 \centering
                 \includesvg[inkscapelatex=false, width=\textwidth]{RadarCharts/chemical/chemical.svg}
-                \caption{Chemisches Profil.}%
+                \caption[Chemisches Profil]{Chemisches Profil.}%
                 \label{fig:pc chemical profile}
             \end{figure}
             \newpage
             \nocite{datenblattsammlung.KERN.20210201}
         \subsection{Preis}
             In Westeuropa wird ABS derzeit – unabhängig davon, ob es sich um regranuliertes oder \textit{virgin}\footnote{Dt.\ jungfräulich – Material zum Erstgebrauch.}
-            ABS handelt – zwischen ca. €0,85 und €3,00 je Kilogramm gehandelt\cite{rohstoffboerse.kunststoffweb.de.20210206}.
+            ABS handelt – zwischen ca. €0,85 und €3,00 je Kilogramm gehandelt \cite{rohstoffboerse.kunststoffweb.de.20210206}.
             Als Rohstoff zur additiven Fertigung bewegen sich Preise – je nach Marktsegment – zwischen €15 und €120.
 
     \section{Herstellung}
@@ -80,22 +79,13 @@
             wird in der Regel mit einem SAN-Polymer versetzt, um das Endprodukt zu erhalten. Abstände und Verteilung der
             Propfkomponenten können eingestellt werden und beeinflussen Eigenschaften wie Härte, Fließverhalten oder
             Chemikalienbeständigkeit. Die Länge der dazwischenliegenden Polybutadienketten beeinflusst den Grad der Elastizität
-            einerseits, die Anfälligkeit für Photooxidation andererseits\cite{Domininghaus.1998.Kunststoffe.und.ihre.Eigenschaften}.
-        
+            einerseits, die Anfälligkeit für Photooxidation andererseits \cite{Domininghaus.1998.Kunststoffe.und.ihre.Eigenschaften}.
+
             % Pfropfpolymerisation von Styrol und Acrylnitril auf einem vorgelegten Polybutadienlatex; das erhaltene Pfropfpolymerisat
             % wird mit einem getrennt hergestellten SAN-Latex abgemischt, koaguliert und getrocknet. \cite{Domininghaus.1998.Kunststoffe.und.ihre.Eigenschaften,Eyerer.2020.Polymer.Engineering.1}
     \section{Anwendung}\label{sec:anwendung}
             Aus der Kategorie der Kunststoffe ist Acrylnitril-Butadien-Styrol das meist verwendete Material für Produkt und
-            Ingenieursanwendungen.\par
-            \begin{wrapfigure}{l}{.4\linewidth}
-                \centering
-                \vspace{-\baselineskip}
-                \adjustbox{max width=.4\textwidth}{
-                \includegraphics[width=\linewidth]{Assets/FDM_ABS/abs_teilA.jpg}
-                }
-                \caption[Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung]{Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung für einen Eigenbau-Stiftplotter.}%
-                \label{fig:3dDruck ABS teil}
-            \end{wrapfigure}
+            Ingenieursanwendungen.
             Aufgrund seiner Temperaturbeständigkeit und hohen Schlagfestigkeit (vgl. hierzu \cref{fig:pc mechanical profile} und \cref{fig:pc thermal profile}) findet es breite Anwendung insbesondere in der
             Automobilindustrie zur Fertigung von Interieur, als Gehäuseteile für Elektronikprodukte oder auch Spielzeug. So verdankt etwa der Hersteller
             \textsc{LEGO} seinen Siegeszug der besonderen Eigenschaftenkomposition des Terpolymers. Die thermoplastische Komponente
@@ -103,6 +93,15 @@
             für die Massenproduktion. Die durch das 1,3-Butadien verliehene Elastizität sorgt für Formbeständigkeit auch bei
             wiederholter Nutzung der \textsc{LEGO}-Steine.
 
+            \begin{wrapfigure}{l}{.5\linewidth}
+                \centering
+                % \vspace{-\baselineskip}
+                \adjustbox{max width=.5\textwidth}{
+                \includegraphics[width=\linewidth]{Assets/FDM_ABS/abs_teilA.jpg}
+                }
+                \caption[Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung]{Eine aus schwarzem ABS im FDM-Verfahren gefertigte Stiftfixierung für einen Eigenbau-Stiftplotter.}%
+                \label{fig:3dDruck ABS teil}
+            \end{wrapfigure}
             Eine weitere, heute nicht mehr zu vernachlässigende Anwendung findet ABS als Rohmaterial in der additiven Fertigung
              – speziell im \textit{Fused Deposition Modeling}\footnote{Dt.: Schmelzschichtmodellierung.} – sowohl im Hobby-
             wie im professionellen Bereich. Hierbei wird das Material – zuvor zu einem Faden von üblicherweise \SI{1,75}{mm}
@@ -173,17 +172,25 @@
             % Chemische und thermische Standfestigkeit durch Acrylnitril, Thermoplastisch verformbar durch Polystyrol, Zähigkeit
             % und Schlagfestigkeit durch 1,3-Butadien.
             
-            Mischungsverhältnisse dieser drei Komponenten beeinflussen die jeweils mit ihnen assoziierten Eigenschaften des
-            Gesamtmaterials. Hierdurch lassen sich durch relativ einfache Weise eine Großzahl verschiedener Varianten zum
+            Mischungsverhältnisse dieser drei Komponenten nach dem Schema \(\left[A_kB_lS_m\right]_n\) (vgl. \cref{fig:abs_struktur}) beeinflussen jeweils
+            die mit ihnen assoziierten Eigenschaften des Gesamtmaterials. Hierdurch lassen sich durch relativ einfache Weise eine Großzahl verschiedener Varianten zum
             spezialisierten Einsatz produzieren. Dies spiegelt sich in der Vielzahl der auf dem Markt erhältlichen und unter
             verschiedenen Handelsnamen vertriebenen Varianten wider.
-
+            \begin{figure}[H]
+                \centering
+                \adjustbox{max width=.39\linewidth}{
+                \includesvg[]{zeichnungen/abs_struktur.svg}
+                }
+                \caption[Verallgemeinerte Darstellung der Makrostruktur des Polymers]{Eine verallgemeinerste Darstellung der Makrostruktur des ABS. Die Indices \(k,l,m\) geben
+                die kontinuierlichen Anzahlen der jeweiligen Monomere und der Index \(n\) die Anzahl der aneinandergereihten Gesamtpolymerketten zum Makropolymer an.}
+                \label{fig:abs_struktur}
+            \end{figure}
     \section{Besonderheiten}
             Wie bereits in den vorherigen Kapiteln erwähnt, bietet ABS eine Mischung günstiger mechanischer Eigenschaften
             bei gleichzeitig hoher Oberflächengüte, Kratzfestigkeit und lässt sich darüber hinaus besonders gut oberflächenbehandeln
             ohne  Notwendigkeit von potenziell umwelt- oder gesundheitsschädlichen Zusatzstoffen. Sollen seine
             Eigenschaften auf einen bestimmten Anwendungszweck hin abgestimmt werden, kann dies durch bloßes Ändern der
-            Mischverhältnisse seiner Bestandteile erfolgen.
+            Mischverhältnisse seiner Bestandteile erfolgen. Das zusammen macht ABS zu einem breit anwendbaren Allround-Material.
 
             Weiterhin ist reines ABS für Lebensmittelkontakt zugelassen und erfüllt bei entsprechender Wahl der Füllstoffe
-            Kriterien zu medizinischen Anwendung nach ISO 10993\cite{ABS.M30i.Datasheet.Stratasys.20210210}.
+            Kriterien zu medizinischen Anwendung nach ISO 10993 \cite{ABS.M30i.Datasheet.Stratasys.20210210}.

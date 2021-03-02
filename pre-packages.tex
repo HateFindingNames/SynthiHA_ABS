@@ -8,21 +8,22 @@
 %\usepackage[ngerman]{babel}
 %\usepackage[ngerman]{varioref}
 \iftoggle{deutsch}{%
-    \usepackage[ngerman]{babel}
-    \usepackage[ngerman]{varioref}
-    \usepackage[autostyle=true, german=quotes]{csquotes}
+    \usepackage[ngerman]{babel}%
+    \usepackage[ngerman]{varioref}%
+    \usepackage[autostyle=true, german=quotes]{csquotes}%
 }{%
-    \usepackage[english]{babel}
-    \usepackage[english]{varioref}
-    \usepackage[autostyle=true]{csquotes}
-}
-\usepackage[T1]{fontenc} 
+    \usepackage[english]{babel}%
+    \usepackage[english]{varioref}%
+    \usepackage[autostyle=true]{csquotes}%
+}%
+% \usepackage[urw-garamond]{mathdesign}
+\usepackage[T1]{fontenc}%
 % \usepackage[utf8]{inputenc}
 %---------------------------
-\usepackage{booktabs}
-\usepackage{calc}
-\usepackage{cancel}
-\usepackage[labelfont={footnotesize,sf,bf},textfont={footnotesize,sf}]{caption} %Format (Textgröße, Textform) für Bildtext 
+\usepackage{booktabs}%
+\usepackage{calc}%
+\usepackage{cancel}%
+\usepackage[labelfont={footnotesize,sf,bf},textfont={footnotesize,sf}]{caption}%Format (Textgröße, Textform) für Bildtext 
 %\usepackage{subcaption}
 %normalsize
 %scriptsize
@@ -30,31 +31,31 @@
 % bf --> bold face
 % sf --> sans serif
 %\usepackage{cite} %inkompatibel mit biblatex
-\usepackage[table]{xcolor}
+\usepackage[table]{xcolor}%
 %\usepackage{colortbl}
-\usepackage[right]{eurosym}
+\usepackage[right]{eurosym}%
 %\usepackage{caption2} %nicht zusammen mit sidecap
 %\usepackage{exscale}
-\usepackage{ellipsis}
-\usepackage{graphicx}
-\usepackage{float}
+\usepackage{ellipsis}%
+\usepackage{graphicx}%
+\usepackage{float}%
 %\usepackage{floatflt}
 %----------------------------------------
-\usepackage{gensymb} %-----------
+\usepackage{gensymb}%-----------
 %\usepackage{helvet}
 % \usepackage{listings}
-\usepackage{longtable}
-\usepackage{lastpage}  %----------
-\usepackage{lscape}
-\usepackage{lmodern}  %-- Silbentrennung
+\usepackage{longtable}%
+\usepackage{lastpage}%----------
+\usepackage{lscape}%
+\usepackage{lmodern}%-- Silbentrennung
 %\usepackage{mathpazo} % andere mathematische Symbol
-\usepackage{makeidx}
+\usepackage{makeidx}%
 %\usepackage{minitoc}
-\usepackage{multirow}
-\usepackage{multicol}
+\usepackage{multirow}%
+\usepackage{multicol}%
 %\usepackage[intoc]{nomencl}   % zwei Spalten beim Formelzeichenverzeichnis
 \iftoggle{deutsch}{%
-    \usepackage[german,intoc]{nomentbl} %vier Spalten bei Formelzeichenverzeichnis
+    \usepackage[german,intoc]{nomentbl}%vier Spalten bei Formelzeichenverzeichnis
 }{%
     \usepackage[english,intoc]{nomentbl} %vier Spalten bei Formelzeichenverzeichnis
 }
@@ -84,11 +85,14 @@
 \usepackage{tikz}
 \usepackage{times} 
 \usepackage{units} %----------
-\usepackage[hyphens, nobiblatex]{xurl}
+\usepackage[style=numeric, citestyle=numeric, backend=biber]{biblatex}
+% \usepackage[hyphens, nobiblatex]{xurl}
+\usepackage[hyphens]{xurl}
 \usepackage{wrapfig} %----------
 % \usepackage{xr-hyper}
 \usepackage{arydshln} %für \hdashline[5pt/2pt] % muss am Ende stehen, sonst gibt es Probleme mit xcolor
-\usepackage[hidelinks]{hyperref} % muss am Schluss stehen
+\usepackage{hyperref} % muss am Schluss stehen
+\hypersetup{hidelinks}
 % \hypersetup{linkcolor={0 1 1}, linkbordercolor={1 1 1}, citebordercolor={1 1 1}} % setzt Linkboxen auf Farbe "`weiß"'
 %\usepackage{bm}
 %\usepackage[toc,symbols]{glossaries} %---------- muss nach hyperref stehen
@@ -97,12 +101,12 @@
 %\usepackage{romannum} % Seitenzahlen in römischen Ziffern
 \usepackage{adjustbox}
 \usepackage{scrhack}
-\usepackage[style=numeric, citestyle=numeric, backend=biber]{biblatex}
 \usepackage[useregional]{datetime2}
-\usepackage{cleveref} % löscht labels!!!!!!!!!! <--- warum? habs trotzdem eingefügt weil es die referencen nice macht ohne newcommands dafür zu brauchen. außerdem steht intellisense drauf ;)
+\usepackage[ngerman]{cleveref} % löscht labels!!!!!!!!!! <--- warum? habs trotzdem eingefügt weil es die referencen nice macht ohne newcommands dafür zu brauchen. außerdem steht intellisense drauf ;)
 \usepackage{isotope} % um chemische gleichungen hübscher darstellen zu können
 \usepackage{framed} % rahmen um dinge malen können
 \usepackage{svg} % um auch vektorgrafiken als bild einfügen zu können
 % \usepackage{adjustbox} % skaliert floats dynamischer (anti-over/underfull)
 \usepackage[numbered]{bookmark} % platziert im pdf reader bei der kapitelübersicht die jeweiligen kapitelnummer vor die kapitelüberschriften
 % \usepackage[]{draftwatermark}
+% \usepackage{fontspec}% funzt nur mit xelatex
